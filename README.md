@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <p align="center">
-<a href="#"><img src="https://i.postimg.cc/VNLV8nrK/cropped-1366-300-656029.png" height="20%" width="80%" data-canonical-src="https://i.postimg.cc/GpnKLzbD/zatielcreative.png)" style="max-width: 100%;"></a>
 </p>
 <h3 align="center">A passionate developer from Colombia</h3>
 
