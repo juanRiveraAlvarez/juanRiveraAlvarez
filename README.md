@@ -1,20 +1,24 @@
-<h4>Hi 👋, I'm Juan.</h4>
+<h1>🚀 Welcome to my GitHub 🖤</h1>
+    <p>📍 From Medellín, exploring the chaos between code and reality.</p>
 
-<ul>
-  <li>I am a Computer cience student, of Universidad Nacional de Colombia.</li>
-  <li>Math enthusiast</li>
-  <li>Elemento 3</li>
-</ul>
+    <h2>💾 About Me</h2>
+    <p>Computer Science and Mathematics student at Universidad Nacional. Passionate about formal languages, algebraic topology, and software development.</p>
 
-<h3 align="center">A passionate developer from Colombia</h3>
+    <h2>⚡ Technologies & Tools</h2>
+    <ul>
+        <li>💻 <strong>Java, Python, Lua</strong></li>
+        <li>🛠 <strong>Neovim + LSP</strong> for a sharp workflow</li>
+        <li>📊 <strong>Excel, Power BI, APIs</strong> for data analysis</li>
+        <li>📡 Exploring <strong>FreeBSD and UNIX systems</strong></li>
+    </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">juanpariveraalvarez@gmail.com</p>
+    <h2>🎸 Other Interests</h2>
+    <ul>
+        <li>🏴 Anarchism, philosophy, geopolitics, and history</li>
+        <li>🔥 Punk scene, noisy music, and counterculture</li>
+    </ul>
 
-<h3 align="left">My favorite languages:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
+    <h2>📬 Contact</h2>
+    <p>Email: <a href="mailto:juanpariveraalvarez@gmail.com">juanpariveraalvarez@gmail.com</a></p>
 
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanriveraalvarez&show_icons=true&locale=en&layout=compact" alt="juanriveraalvarez" /></p>
+    <p>💬 Open to collaborations, ideas, and discussions. Drop me a message!</p>
