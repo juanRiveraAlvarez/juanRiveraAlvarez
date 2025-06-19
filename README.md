@@ -2,7 +2,7 @@
     <p>📍 From Medellín, exploring the chaos between code and reality.</p>
 
 <h2>💾 About Me</h2>
-    <p>Computer Science and Mathematics student at Universidad Nacional. Passionate about formal languages, algebraic topology, and software development.</p>
+    <p>Computer Science and Mathematics student at Universidad Nacional. Passionate about formal languages, Topology, and software development.</p>
 
 <h2>⚡ Technologies & Tools</h2>
     <ul>
