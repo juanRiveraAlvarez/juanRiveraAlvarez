@@ -12,12 +12,6 @@
         <li>📡 Exploring <strong>FreeBSD and UNIX systems</strong></li>
     </ul>
 
-<h2>🎸 Other Interests</h2>
-    <ul>
-        <li>🏴 Anarchism, philosophy, geopolitics, and history</li>
-        <li>🔥 Punk scene, noisy music, and counterculture</li>
-    </ul>
-
 <h2>📬 Contact</h2>
     <p>Email: <a href="mailto:juanpariveraalvarez@gmail.com">juanpariveraalvarez@gmail.com</a></p>
 
